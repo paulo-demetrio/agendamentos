@@ -1,0 +1,22 @@
+{
+   "scripts": {
+      "server": "json-server --watch server.json --port 9000",
+      "build": "webpack",
+      "dev": "webpack serve"
+   },
+   "devDependencies": {
+      "@babel/core": "^7.26.10",
+      "@babel/preset-env": "^7.26.9",
+      "babel-loader": "^10.0.0",
+      "copy-webpack-plugin": "^13.0.0",
+      "css-loader": "^7.1.2",
+      "dayjs": "^1.11.13",
+      "html-webpack-plugin": "^5.6.3",
+      "http-server": "^14.1.1",
+      "json-server": "^1.0.0-beta.3",
+      "style-loader": "^4.0.0",
+      "webpack": "^5.99.5",
+      "webpack-cli": "^6.0.1",
+      "webpack-dev-server": "^5.2.1"
+   }
+}
