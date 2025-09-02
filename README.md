@@ -35,18 +35,18 @@ Express.js (API REST para agendamentos)
 
 # Instalação e Uso
 
-#### Instale as dependências:
+### Instale as dependências:
 
 npm install
 
 
-#### Execute o servidor de desenvolvimento:
+### Execute o servidor de desenvolvimento:
 
 npm run dev
 
 O site estará disponível em http://localhost:3000.
 
-#### Build para produção:
+### Build para produção:
 
 npm run build
 
